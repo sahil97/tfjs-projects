@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  color: white;
+  position: relative;
+  margin: auto;
+}
+
+.objectDeteciton{
+  position: relative;
+  margin: auto;
+}
+
+video, canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.container{
+  max-width: 1024px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+footer {
+  flex: 0 0 30px; /*or just height:50px;*/
+  margin-top: auto;
+  text-align: center;
+  border-top: 1px solid grey;
+}
+
+footer a {
+  margin-left: 2px;
+  color: #eee;
+  text-decoration: none;
+  font-size: 1rem;
+  letter-spacing: 0.1rem;
+}
