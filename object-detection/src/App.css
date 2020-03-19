@@ -25,18 +25,3 @@ video, canvas {
   margin-right: auto;
   margin-left: auto;
 }
-
-footer {
-  flex: 0 0 30px; /*or just height:50px;*/
-  margin-top: auto;
-  text-align: center;
-  border-top: 1px solid grey;
-}
-
-footer a {
-  margin-left: 2px;
-  color: #eee;
-  text-decoration: none;
-  font-size: 1rem;
-  letter-spacing: 0.1rem;
-}

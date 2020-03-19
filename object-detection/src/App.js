@@ -97,12 +97,6 @@ class App extends Component {
             />
             </div>
           </div>
-          <footer class="footer">
-          <p>
-            Built by{" "}
-            <a href="https://github.com/sahil97">@Sahil Sharma</a>
-          </p>
-        </footer>
         </div>
     );
   }
